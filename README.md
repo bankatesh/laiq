@@ -1,0 +1,2 @@
+# laiq
+pyhton programming
