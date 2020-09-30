@@ -1,2 +1,2 @@
 # laiq
-pyhton programming
+Python Programming
